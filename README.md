@@ -1,41 +1,30 @@
 The English version of the description
 ======================================
-Workstation Administrator nightclub
+Workstation Administrator of a computer goods store
 -----------------------------------
 **Functional:**
-* Registration of visitors
-* Accounting and work with visitors (visits)
-* View a visit report for the period in tabular form or as a graph
-* Accounting and management of the customer base
-* Making the table in a restaurant
-* Control table Employment
-* Making a musical composition on the dance floor
-* Order a musical composition by the client with the ability to pay by credit card
-* Playlist DJ, music management ordered
+* Buyer registration
+* Accounting and working with customers (purchases)
+* View a report on purchases for the period in tabular form or in the form of a graph
+* Accounting and maintaining a customer base
+* Making an order
+* Control of order fulfillment
+* Customer order of computer goods with the possibility of payment by bank card
 
-> Open to discuss offers on web-development. Experience full-stack developer since.
 
-> PHP, MySQL, SQL, HTML, CSS, JavaScript, jQuery, Ajax, JSON, Yii2, Git, Telegram API.
 
-> [Write here](https://ru.linkedin.com/in/fedorovau)
 
 Русская версия описания
 ======================================
-Автоматизированное рабочее место администратора ночного клуба
+Автоматизированное рабочее место администратора магазина комрьютерных товаров
 -----------------------------------
 **Функционал:**
-* Регистрация посетителей
-* Учет и работа с посетителями (визиты)
-* Просмотр отчета о посещениях за период в табличной форме или в виде графика
+* Регистрация покупателей
+* Учет и работа с покупателями (покупки)
+* Просмотр отчета о покупках за период в табличной форме или в виде графика
 * Учет и ведения базы клиентов
-* Оформление столика в ресторане
-* Контроль занятости столов
-* Оформление музыкальной композиции на танцполе
-* Заказ клиентом музыкальной композиции с возможностью оплаты банковской картой
-* Плейлист DJ, управление заказанной музыкой
+* Оформление заказа
+* Контроль выполнения заказов
+* Заказ клиентом компьютерных товаров с возможностью оплаты банковской картой
 
-> Открыт к рассмотрю предложений по web-разработке. Опыт разработки с 2009 года.
 
-> PHP, MySQL, SQL, HTML, CSS, JavaScript, jQuery, Ajax, JSON, Yii2, Git, Telegram API.
-
-> [Писать сюда](https://ru.linkedin.com/in/fedorovau)
