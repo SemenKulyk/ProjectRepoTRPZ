@@ -33,6 +33,15 @@ Workstation Administrator nightclub
 * Оформление музыкальной композиции на танцполе
 * Заказ клиентом музыкальной композиции с возможностью оплаты банковской картой
 * Плейлист DJ, управление заказанной музыкой
+* registrera dig för nya kunder
+* Redovisning och arbete med besökare (besök)
+* Visa en besöksrapport för perioden i tabellform eller som ett diagram
+* Redovisning och hantering av kundbasen
+* Att göra bordet i en restaurang
+* Kontrolltabell Sysselsättning
+* Skapa en musikalisk komposition på dansgolvet
+* Beställ en musikalisk komposition av klienten med möjlighet att betala med kreditkort
+* Spellista DJ, beställd musikhantering
 
 > Открыт к рассмотрю предложений по web-разработке. Опыт разработки с 2009 года.
 
