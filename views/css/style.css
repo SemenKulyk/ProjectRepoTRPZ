@@ -5,6 +5,10 @@
 html,
 body {
     overflow-x: hidden; /* Prevent scroll on narrow devices */
+    background-image: url("https://mdn.mozillademos.org/files/11983/starsolid.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 body {
     padding-top: 70px;
